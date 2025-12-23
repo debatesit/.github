@@ -1,4 +1,5 @@
-# <img src="https://github.com/user-attachments/assets/cf2ba1ba-e1cc-4e8a-b5fd-441dfddf2cce" width="35" height="35" alt="DebateHub Logo"/> DebateHub
+# <img src="https://github.com/user-attachments/assets/cf2ba1ba-e1cc-4e8a-b5fd-441dfddf2cce" width="35" height="35" alt="DebateHub Logo"/> DebateHub - Articulation Trainer
+
 
 ## What is DebateHub?
 **DebateHub** is an online matchmaking platform that pairs users one-on-one to debate a wide range of world affairs topics.  
