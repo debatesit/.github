@@ -1,6 +1,6 @@
 # <img src="https://github.com/user-attachments/assets/cf2ba1ba-e1cc-4e8a-b5fd-441dfddf2cce" width="35" height="35" alt="Debatle Logo"/> Debatle
 
-**Chess.com for debate.** Competitive, real-time, one-on-one debate — with Elo ratings and AI judging.
+**Omegle ELO but for debate.** Competitive, real-time, one-on-one debate — with Elo ratings and AI judging.
 
 ---
 
