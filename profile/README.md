@@ -1,60 +1,48 @@
-# <img src="https://github.com/user-attachments/assets/cf2ba1ba-e1cc-4e8a-b5fd-441dfddf2cce" width="35" height="35" alt="DebateHub Logo"/> DebateHub - Articulation Trainer
+# <img src="https://github.com/user-attachments/assets/cf2ba1ba-e1cc-4e8a-b5fd-441dfddf2cce" width="35" height="35" alt="Debatle Logo"/> Debatle
 
-
-## What is DebateHub?
-**DebateHub** is an online matchmaking platform that pairs users one-on-one to debate a wide range of world affairs topics.  
-Each user is assigned an initial **Matchmaking Rating (MMR)** on their first visit. After every completed debate, this rating is adjusted based on how clearly, logically, and effectively the user explained and supported their arguments compared to their opponent.
+**Chess.com for debate.** Competitive, real-time, one-on-one debate — with Elo ratings and AI judging.
 
 ---
 
-## Why Make DebateHub?
-The goal of DebateHub is to help users **improve their ability to articulate and defend their viewpoints**.
+## What is Debatle?
 
-By pairing users in real-time, one-on-one debates:
-- Debaters are encouraged to think critically and respond thoughtfully
-- Competitive matchmaking motivates users to improve
-- The MMR system provides tangible feedback by showing users how their skills evolve over time
+**Debatle** is a live matchmaking platform where users are paired one-on-one to debate world affairs, ethics, policy, and more — on camera, in real time.
 
-DebateHub turns practice into progress and gives debaters the *“fruit of their labor”* through measurable growth.
+Every debate is evaluated by an AI judge that scores clarity, logic, and argument strength. Your **Elo rating** updates after every match, giving you a concrete measure of how your skills grow over time.
 
 ---
 
-## How DebateHub Works
-DebateHub is built using a combination of **JavaScript**, **Python**, and several supporting technologies that enable real-time debates, intelligent matchmaking, and persistent data storage.
+## Why Debatle?
 
-The platform is divided into three main layers: **Frontend**, **Backend**, and **Infrastructure & AI Resources**.
+Most people never practice arguing their views out loud — against a real opponent, under pressure, in real time. Debatle fixes that.
 
----
-
-### JavaScript & Frontend Technologies
-JavaScript powers the **entire client-side experience** of DebateHub.
-
-- **React** is used to build a dynamic, component-based user interface
-- **Node.js** supports frontend tooling and development workflows
-- The UI is designed to be visually appealing, intuitive, and responsive
-- Real-time updates ensure debates feel live and interactive
+- **Live video debates** — face your opponent, not a text box
+- **Elo matchmaking** — get paired with opponents at your level
+- **AI judging** — instant, objective feedback after every match
+- **Measurable growth** — watch your rating climb as your argumentation improves
 
 ---
 
-### Python & Backend Technologies
-Python handles all **server-side logic and real-time communication**.
+## How It Works
 
-- **Flask** serves as the backend framework, managing API routes and application logic
-- **WebSockets** enable real-time debate communication between users
-- Matchmaking logic assigns opponents and manages debate sessions
-- MMR calculations are performed after each debate to reflect user performance
-- Core backend systems ensure smooth coordination between users and services
+1. Enter the queue and get matched with an opponent
+2. A topic is assigned — you're randomly assigned a side
+3. Debate live via video for a set time
+4. An AI judge scores the round and updates both Elo ratings
 
 ---
 
-### AI, Data, and Infrastructure Resources
-DebateHub integrates additional tools to enhance intelligence, scalability, and persistence.
+## Tech Stack
 
-- **DeepSeek** and **Ollama** are used for machine learning and AI-powered analysis
-- **SQLite** provides lightweight, persistent data storage for users and matches
-- **AWS** hosts and deploys backend services, enabling scalability and reliability
+| Layer | Technologies |
+|---|---|
+| Frontend | React, Tailwind CSS |
+| Backend | Python, FastAPI |
+| Real-time | WebRTC (live video), WebSockets |
+| AI Judging | Claude API |
+| Hosting | AWS EC2 |
+| Domain | [debatle.org](https://debatle.org) |
 
 ---
 
-Together, these technologies allow DebateHub to deliver fast, competitive, and intelligent one-on-one debates in real time.
-
+> Built by [@kianvdb](https://github.com/kianvdb) and [@maxremy](https://github.com/maxremy)
