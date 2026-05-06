@@ -45,4 +45,4 @@ Most people never practice arguing their views out loud — against a real oppon
 
 ---
 
-> Built by [@kianvdb](https://github.com/kianvdb) and [@maxremy](https://github.com/maxremy)
+> Built by [@kiankamdar](https://github.com/kiankamdar) and [@defmaxeng](https://github.com/defmaxeng)
